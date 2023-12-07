@@ -1,0 +1,10 @@
+:root{
+    --color-text: #fff;
+    --color-primary: #92FF77;
+    --color-secondary: #5B9F4A;
+    --color-dark: #49803B;
+    --color-bg: #25401E;
+
+
+    --font-ubuntu: "ubuntu-mono";
+}
