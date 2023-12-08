@@ -8,11 +8,15 @@ export const Navbar = () => {
     <nav className={styles.navbar}>
         <a className={styles.title} href="/">Portfolio</a>
     <div className={styles.menu}>
-        <img className={styles.menuBtn} src={menuOpen ?
+        <img className={styles.menuBtn} 
+        src={menuOpen ?
         getImageUrl("nav/closeIcon.png") :
         getImageUrl("nav/menuIcon.png")}
-        onClick={() => SetMenuOpen(!menuOpen)} ></img>
-       <ul className={`${styles.menuItems} ${menuOpen && styles.menuOpen}`}>
+        onClick={() => SetMenuOpen(!menuOpen)}/>
+       <ul
+        className={`${styles.menuItems} ${menuOpen && styles.menuOpen}`}
+       onClick={() => SetMenuOpen(false)}
+       >
             <li>
                 <a href="#about">About</a>
             </li>

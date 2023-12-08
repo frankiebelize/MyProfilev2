@@ -1,10 +1,10 @@
 :root{
     --color-text: #fff;
-    --color-primary: #92FF77;
-    --color-secondary: #5B9F4A;
-    --color-dark: #49803B;
-    --color-bg: #25401E;
+    --color-primary: #43c0ff;
+    --color-secondary:#ffb590 ;
+    --color-dark: #ff935d;
+    --color-bg: #ff8243;
 
 
-    --font-ubuntu: "ubuntu-mono";
+    --font-caveat: 'Caveat Variable';
 }
