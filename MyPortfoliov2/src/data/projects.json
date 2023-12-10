@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Project 1",
+        "imageSrc": "projects/ProjectOne.png",
+        "description": " ",
+        "skill": "CSS ",
+        "demo": " ",
+        "source":" " 
+    },
+    {
+        "title": "Project 2",
+        "imageSrc": "projects/ProjectTwo.png",
+        "description": " ",
+        "skill": "CSS ",
+        "demo": " ",
+        "source":" " 
+    }
+]
