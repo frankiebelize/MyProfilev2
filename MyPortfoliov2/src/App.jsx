@@ -4,6 +4,7 @@ import { Hero } from './componets/Hero/hero'
 import {About} from './componets/About/about'
 import {Skill} from './componets/Skills/skills'
 import {Project} from './componets/Project/project'
+import {Contact} from './componets/Contact/contact'
 
 function App() {
   
@@ -14,6 +15,7 @@ function App() {
     <About/>
     <Skill/>
     <Project/>
+    <Contact/>
     </div>
     
   

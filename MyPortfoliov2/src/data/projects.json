@@ -1,17 +1,17 @@
 [
     {
         "title": "Project 1",
-        "imageSrc": "projects/ProjectOne.png",
+        "imageSrc": "projects/projectOne.png",
         "description": " ",
-        "skill": "CSS ",
-        "demo": " ",
+        "skills": ["CSS "],
+        "demo": "",
         "source":" " 
     },
     {
         "title": "Project 2",
-        "imageSrc": "projects/ProjectTwo.png",
+        "imageSrc": "projects/projectTwo.png",
         "description": " ",
-        "skill": "CSS ",
+        "skills": ["CSS "],
         "demo": " ",
         "source":" " 
     }
