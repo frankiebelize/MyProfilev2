@@ -2,17 +2,25 @@
     {
         "title": "Project 1",
         "imageSrc": "projects/projectOne.png",
-        "description": " ",
-        "skills": ["CSS "],
-        "demo": "",
-        "source":" " 
+        "description": "Coding Bootcamp Project 1. LiveSports website to view results of NBA Teams",
+        "skills": ["CSS","HTML","JavaScript"],
+        "demo": "https://cornejod.github.io/Group-Project/",
+        "source":"https://github.com/frankiebelize/Livesports-USA.git" 
     },
     {
         "title": "Project 2",
         "imageSrc": "projects/projectTwo.png",
-        "description": " ",
-        "skills": ["CSS "],
-        "demo": " ",
-        "source":" " 
+        "description": "Coding Bootcamp Project 2. My workout website using to track and post workouts",
+        "skills": ["CSS","HTML","JavaScript","MYSQL","NodeJS"],
+        "demo": "https://my-workouts-c1e5314d5b06.herokuapp.com/",
+        "source":"https://github.com/lindseycarlson23/my-workouts.git" 
+    },
+    {
+        "title": "Project 3",
+        "imageSrc": "projects/projectThree.png",
+        "description": "Coding Bootcamp Project 3. MYfantasyDraft website use to search players by team and adding them to your roster",
+        "skills": ["CSS","HTML","JavaScript","MYSQL","React","MongoDB","NOSQL","GraphQL","NodeJS"],
+        "demo": "https://myfantasydraft-3b76c1450b6a.herokuapp.com",
+        "source":"https://github.com/DevonMcfarlen/MyFantasyDraft.git"
     }
 ]
